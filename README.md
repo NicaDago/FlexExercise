@@ -1,1 +1,1 @@
-Small HTM FLEX Exercise
+Small HTML FLEX Exercise
