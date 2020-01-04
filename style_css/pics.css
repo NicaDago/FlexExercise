@@ -1,0 +1,101 @@
+.pic1{
+  width:380px;
+  height:380px;
+  background: url("Pic1.jpg") no-repeat;
+  padding: 10px;
+  border: 2px dotted #334d4d;
+  border-radius: 15px;
+}
+.pic2{
+  width:380px;
+  height:380px;
+  background: url("Pic2.jpg") no-repeat; 
+  padding: 10px;
+  border: 2px dotted #334d4d;
+  border-radius: 15px;
+}
+.pic3{
+  width:380px;
+  height:380px;
+  background: url("Pic3.jpg") no-repeat;
+  padding: 10px;
+  border: 2px dotted #334d4d;
+  border-radius: 15px;
+}
+.pic4{
+  width:380px;
+  height:380px;
+  background: url("Pic4.jpg") no-repeat;
+  padding: 10px;
+  border: 2px dotted #334d4d;
+  border-radius: 15px;
+}
+
+.pictext{
+  background:rgba(26, 2, 2, 0.952);
+  opacity:0;
+  text-align:center;
+  padding:30px;
+  font-size:30px;
+  border-radius: 50px;
+}
+
+.pic1:hover .pictext
+{
+  opacity:0.6;
+  color:yellow;
+  box-align: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-right: 10%;
+  margin-left: 10%;
+  width: 250px;
+  height: 250px;
+}
+.pic2:hover .pictext
+{
+  opacity:0.6;
+  color:yellow;
+  box-align: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-right: 10%;
+  margin-left: 10%;
+  width: 250px;
+  height: 250px;
+}
+.pic3:hover .pictext
+{
+  opacity:0.6;
+  color:yellow;
+  box-align: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-right: 10%;
+  margin-left: 10%;
+  width: 250px;
+  height: 250px;
+}
+.pic4:hover .pictext
+{
+  opacity:0.6;
+  color:yellow;
+  box-align: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-right: 10%;
+  margin-left: 10%;
+  width: 250px;
+  height: 250px;
+}
+
+th {
+  font-size:30px;
+  font-weight:bold; 
+}
+
+table{
+  padding:10px;
+  margin-right: 5%;
+  margin-left: 5%;
+}
